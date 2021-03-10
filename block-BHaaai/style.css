@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+    color: #ffff;
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+    
+}
+
+img {
+    width: 300px;
+    height: 300px;
+
+}
+
+footer {
+    background-color: darkblue;
+    height: 40px;
+    text-align: center;
+    padding: 5px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.requirements {
+    color: green;
+}
